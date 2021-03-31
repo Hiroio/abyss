@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/abyss_31.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/main.py">
           <value>
             <Attribute>
